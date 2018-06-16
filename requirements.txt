@@ -1,4 +1,6 @@
 Django==2.0.6
+gunicorn==19.8.1
 Markdown==2.6.11
 Pygments==2.2.0
+PyMySQL==0.8.1
 pytz==2018.4
